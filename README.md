@@ -3,6 +3,8 @@
 
 So uh, yeah. I'm going to test text styles now.
 
+First off, it seems that pressing enter twice makes a new paragraph. Neato!
+
 **This is bold.**
 
 *This is italic.*
