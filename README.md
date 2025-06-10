@@ -1,5 +1,5 @@
 # Me17Today
-## Hello everyone! This is my first attempt at creating a profile on GitHub!
+## Hello everyone! This is my first attempt at creating a public repository on GitHub!
 
 So uh, yeah. I'm going to test text styles now.
 
