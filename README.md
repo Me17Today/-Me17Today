@@ -2,13 +2,21 @@
 ## Hello everyone! This is my first attempt at creating a profile on GitHub!
 
 So uh, yeah. I'm going to test text styles now.
+
 **This is bold.**
+
 *This is italic.*
+
 ***This is bold and italic.***
+
 **Emphasis on *this* word.**
+
 ~~Strikethrough!~~
+
 <sub>subscript?</sub>
+
 <sup>superscript!</sup>
+
 <ins>And of course, underline.</ins>
 
 Watch me quote something!
