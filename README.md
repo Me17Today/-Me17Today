@@ -32,6 +32,6 @@ code text
 ```
 
 Here's a useful link:
-[Youtube.com](url)
+[Youtube.com](youtube.com)
 
 Alright, that's it for now. Let's see if this works.
